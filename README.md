@@ -1,0 +1,2 @@
+# PROKON
+dotnet test
